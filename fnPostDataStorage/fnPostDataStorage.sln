@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDataStorage", "fnPostDataStorage\fnPostDataStorage.csproj", "{B4A66539-693D-4059-AFB0-641FD6F0AAE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDatabase", "fnPostDatabase\fnPostDatabase.csproj", "{E59396F1-8D97-4308-BFD6-E6DD6EA1920B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetMovieDetail", "fnGetMovieDetail\fnGetMovieDetail.csproj", "{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E59396F1-8D97-4308-BFD6-E6DD6EA1920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E59396F1-8D97-4308-BFD6-E6DD6EA1920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E59396F1-8D97-4308-BFD6-E6DD6EA1920B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
