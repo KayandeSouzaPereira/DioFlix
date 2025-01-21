@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E8FF3A8-7EC2-4C31-9557-CCC79338E89A}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\projetos_dio\\dioflix\\dioflix\\fnpostdatastorage\\fngetallmovies\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8FF3A8-7EC2-4C31-9557-CCC79338E89A}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\projetos_dio\\dioflix\\dioflix\\fnpostdatastorage\\fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\projetos_dio\\dioflix\\dioflix\\fnpostdatastorage\\fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\projetos_dio\\dioflix\\dioflix\\fnpostdatastorage\\fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DD9A6AB-1557-4B6F-AF5F-88B08E6095A2}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E8FF3A8-7EC2-4C31-9557-CCC79338E89A}|fnGetAllMovies\\fnGetAllMovies.csproj|c:\\projetos_dio\\dioflix\\dioflix\\fnpostdatastorage\\fngetallmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8FF3A8-7EC2-4C31-9557-CCC79338E89A}|fnGetAllMovies\\fnGetAllMovies.csproj|solutionrelative:fngetallmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\Program.cs",
-              "RelativeDocumentMoniker": "fnGetMovieDetail\\Program.cs",
-              "ToolTip": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\Program.cs",
-              "RelativeToolTip": "fnGetMovieDetail\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:45:55.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\local.settings.json",
-              "RelativeDocumentMoniker": "fnGetMovieDetail\\local.settings.json",
-              "ToolTip": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\local.settings.json",
-              "RelativeToolTip": "fnGetMovieDetail\\local.settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T20:44:06.502Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetAllMovies\\Program.cs",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\Program.cs",
+              "ToolTip": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetAllMovies\\Program.cs",
+              "RelativeToolTip": "fnGetAllMovies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:57:03.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetAllMovies\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGetAllMovies\\Function1.cs",
+              "ToolTip": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetAllMovies\\Function1.cs",
+              "RelativeToolTip": "fnGetAllMovies\\Function1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:51:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
               "DocumentMoniker": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\Function1.cs",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\Function1.cs",
               "ToolTip": "C:\\Projetos_dio\\dioFlix\\DioFlix\\fnPostDataStorage\\fnGetMovieDetail\\Function1.cs",
               "RelativeToolTip": "fnGetMovieDetail\\Function1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T20:21:42.956Z",
               "EditorCaption": ""
